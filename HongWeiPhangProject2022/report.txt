@@ -1,0 +1,80 @@
+
+-------------------------------------
+Company Registration Number: 12345
+Company Registration Name: ComputersLtd
+Company Registration Country: Ireland
+Year Company Founded: 1997
+Email Address: c@computer.com
+Company Contact Name: Martin
+Last Order: 10000
+Number of Employees: 55
+Average Annual Order: 10000.00
+Client Vat Registered: No
+Clients Average Turnover: Less than 1 Million Euro
+Staff employed in the Client Company: Less than 100
+Area Of Sales: ICT
+-------------------------------------
+
+-------------------------------------
+Company Registration Number: 12346
+Company Registration Name: FootballLtd
+Company Registration Country: Ireland
+Year Company Founded: 1998
+Email Address: c@football.com
+Company Contact Name: Sean
+Last Order: 500
+Number of Employees: 5
+Average Annual Order: 500.00
+Client Vat Registered: Yes
+Clients Average Turnover: Less than 10 Million Euro
+Staff employed in the Client Company: Less than 10
+Area Of Sales: Medical Devices
+-------------------------------------
+
+-------------------------------------
+Company Registration Number: 12347
+Company Registration Name: RugbyLtd
+Company Registration Country: Ireland
+Year Company Founded: 1999
+Email Address: c@rugby.com
+Company Contact Name: Mary
+Last Order: 6500
+Number of Employees: 120
+Average Annual Order: 6500.00
+Client Vat Registered: No
+Clients Average Turnover: Less than 10 Million Euro
+Staff employed in the Client Company: Over 100
+Area Of Sales: Medical Devices
+-------------------------------------
+
+-------------------------------------
+Company Registration Number: 12348
+Company Registration Name: CoffeeLtd
+Company Registration Country: Ireland
+Year Company Founded: 2000
+Email Address: c@coffee.com
+Company Contact Name: Peter
+Last Order: 13000
+Number of Employees: 7
+Average Annual Order: 13000.00
+Client Vat Registered: No
+Clients Average Turnover: Over 10 Million Euro
+Staff employed in the Client Company: Less than 10
+Area Of Sales: Other area
+-------------------------------------
+
+-------------------------------------
+Company Registration Number: 12349
+Company Registration Name: LightsLtd
+Company Registration Country: Ireland
+Year Company Founded: 2005
+Email Address: c@lights.com
+Company Contact Name: Patricia
+Last Order: 20000
+Number of Employees: 105
+Average Annual Order: 20000.00
+Client Vat Registered: Yes
+Clients Average Turnover: Less than 10 Million Euro
+Staff employed in the Client Company: Over 100
+Area Of Sales: ICT
+-------------------------------------
